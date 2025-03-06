@@ -6,3 +6,8 @@ node_modules
 
 public
 docs
+
+# secrets
+
+gh-pages
+gh-pages.pub
