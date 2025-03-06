@@ -1,0 +1,16 @@
+---
+title: Now
+layout: base.njk
+---
+
+The latest on what I'm up to...
+{% set mostRecent = collections.now | first %}
+<h2>{{ mostRecent.data.title }}</h2>
+{{ mostRecent.content | safe }}
+
+<h2>See other months</h2>
+<ul>
+{%- for now in collections.now -%}
+  <li><a href="{{ now.url }}">{{ now.data.title }}</a></li>
+{%- endfor -%}
+</ul>

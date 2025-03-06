@@ -1,0 +1,111 @@
+@font-face {
+    font-family: 'Dank Mono';
+    src: 
+        url("../fonts/DankMono-Regular.woff2") format("woff2");
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: 'Dank Mono';
+    src: 
+        url("../fonts/DankMono-Italic.woff2") format("woff2");
+    font-style: italic;
+    font-weight: normal;
+}
+@font-face {
+    font-family: 'Dank Mono Bold';
+    src: 
+        url("../fonts/DankMono-Bold.woff2") format("woff2");
+    font-style: normal;
+    font-weight: bold;
+}
+
+html {
+    background-color: #00022F;
+    color: white;
+    font-family: 'Dank Mono', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #C3D678;
+    font-weight: bold;
+}
+
+a {
+    color: #90B5FF;
+    font-weight: bold;
+}
+a:visited {
+    color: #B7BEF8;
+}
+a:hover {
+    text-decoration-line: underline;
+    color: #C3D678;
+    text-decoration-style: wavy;
+}
+
+strong {
+    font-weight: bolder;
+}
+
+p {
+    line-height: 1.25rem;
+    hyphens: auto;
+}
+ul, li {
+    line-height: 1.25rem;
+}
+
+aside {
+    grid-area: aside;
+    margin: 0 1rem;
+}
+main {
+    grid-area: main;
+    margin: 0 1rem;
+}
+footer {
+    grid-area: footer;
+    margin: 0 auto;
+}
+nav > ul {
+    display: contents;
+}
+nav > ul > li {
+    display: contents;
+}
+
+@media screen and (min-width: 660px)  {
+    html {
+        font-size: 18px;
+    }
+    body {
+        display: grid;
+        grid-template-columns: 250px auto; 
+        grid-template-areas: 
+        "aside main"
+        "footer footer";
+    }
+    main {
+        width: 55vw;
+        min-height: 90vh;
+    }
+    nav > ul > li {
+        display: list-item;
+        margin-left: 1rem;
+    }
+}
+
+header > p {
+    color: #B7BEF8;
+    font-size: 28px;
+    font-style: italic;
+    margin-top: unset;
+    text-align: center;
+}
+
+header > img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}

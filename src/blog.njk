@@ -1,0 +1,11 @@
+---
+title: Blog
+layout: base.njk
+---
+
+These are all of my amazing blog posts, enjoy!
+<ul>
+{%- for blog in collections.blog  | reverse  -%}
+  <li><a href="{{ blog.url }}">{{ blog.data.title }}</a></li>
+{%- endfor -%}
+</ul>
