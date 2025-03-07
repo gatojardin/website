@@ -20,4 +20,5 @@ jobs:
         uses: peaceiris/actions-gh-pages@v1.1.0
         env:
           publish_dir: ./docs
-          github_token: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+          PUBLISH_BRANCH: gh-pages
+          github_token: ${{ secrets.GITHUB_TOKEN }}
