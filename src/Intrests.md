@@ -1,3 +1,4 @@
 **Soon**
 - Photography
 - Drawing
+- Reading
