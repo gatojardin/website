@@ -6,7 +6,7 @@ module.exports = function (eleventyConfig) {
       passthroughFileCopy: true,
       dir: {
         input: "src",
-        output: "docs",
+        output: "public",
         includes: "_includes",
         layouts: "_includes/layouts",
         markdownTemplateEngine: "njk",

@@ -28,7 +28,7 @@ This allows this webpage to be just HTML and CSS which rocks. I used [FlamedFury
 - Make a light theme
 
 ## Other
-### Copywrite: Using and referencing my work
+### Copyright: Using and referencing my work
 All the content including writing, illustrations and photographs on this webpage were created by me unless specified and are published under [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International](https://creativecommons.org/licenses/by-nc-nd/4.0/) licence. 
 I don't mind deriviative work being done as long as it's made by humans and not fed to a LLM AI or used in a NFT Blockchain grift both of which I'm explicitly forbidding. 
 If you have other use cases, like using my work comercially please contact me vía email. 

@@ -15,7 +15,7 @@ layout: base.njk
 - Kiki's Delivery Service 1988
 - Howl's Wandering Castle 
 - Nausicaa of the Valley of the Wind
-- Great expectations 
+- Great Expectations 
 - The Princess Diaries 2004
 - Little Women 1945, 1995, 2022
 - The Lord of the Rings triology. 
@@ -46,12 +46,12 @@ I have very congested skin ever since I was a teenager, while using a recommende
 		- CeraVe Moisterizing Lotion
 
 ## Makeup
-I rarely wear makeup, usually when going to work meetings or going out, when I feel I need to cover some coverage. I like easy to wear light makeup products.  
+I rarely wear makeup, usually when going to work meetings or going out, when I feel I need some coverage. I like easy to wear light makeup products.  
 - Face: 
 	- Honest CCc tinted Moisturizer with SPF 30
 	- L'oreal Infallible Powder fondation
 - Blush and lips: 
-	- Asia (chilean brand) Lip and Cheek tint Nº12 - a raspberry color with a nice powdery finish for fall and winter
+	- Asia (Chilean brand) Lip and Cheek tint Nº12 - a raspberry color with a nice powdery finish for fall and winter
 	- Bobbi Brown Pot rouge in Calypso Coral - good blush for spring and summer as lip color it creases a lot. 
 - Lips: 
 	- Ilia Color Crayon in Pink Door - neutral pink for work 
@@ -62,4 +62,4 @@ I rarely wear makeup, usually when going to work meetings or going out, when I f
 - Eyebrows
 	- Sephora clear brow gel
 - Setting spray
-	- Tessa (chilean brand) Hylo setting spray (I wear it in an effort of not rubbing the makup off)
+	- Tessa (Chilean brand) Hylo setting spray (I wear it in an effort of not rubbing the makup off)
