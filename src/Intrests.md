@@ -14,5 +14,5 @@
   - Indie sewing 
 - Nature and Sustainability
 	- Planting native plants
-	- Solar web
 	- Bird watching
+	- Rewilding
