@@ -1,5 +1,16 @@
-**Soon**
+# Intrests
+
+**soon**
+
 - Photography
-- Drawing
-- Reading
-- Indieweb
+	- Analog
+	- Digital
+- Visual arts
+	- Drawing
+	- Watercolor
+	- Engraving 
+- Textile
+- Nature and Sustainability
+	- Planting native plants
+	- Solar web
+	- Bird watching
