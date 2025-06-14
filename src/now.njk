@@ -4,13 +4,13 @@ layout: base.njk
 ---
 
 The latest on what I'm up to...
-{% set mostRecent = collections.now | first %}
+{% set mostRecent = collections.now | last %}
 <h2>{{ mostRecent.data.title }}</h2>
 {{ mostRecent.content | safe }}
 
 <h2>See other months</h2>
 <ul>
-{%- for now in collections.now -%}
+{%- for now in collections.now | reverse -%}
   <li><a href="{{ now.url }}">{{ now.data.title }}</a></li>
 {%- endfor -%}
 </ul>

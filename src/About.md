@@ -3,7 +3,7 @@ title: About
 layout: base.njk
 ---
 ## About Me
-I work as a Project Manager for a company that develops **Drupal** websites,occationally I also fill the role of information architech, UX designer and sitebuilder.
+I work as a Project Manager for a company that develops **Drupal** websites,occationally I also fill the role of information architech, UX designer and sitebuilder. But I want this to be a space outside from work. 
 - Read [why I'm a Cat Garden in the internet](/blog/why)
 
 ## Website
@@ -21,7 +21,7 @@ This allows this webpage to be just HTML and CSS which rocks. I used [FlamedFury
 - The color palette is inspired by the [Catpuccin theme](https://catppuccin.com/) 
 
 ### To-do
-- Add dates to now and blog posts
+- ~~Add dates to now and blog posts~~ 13/06/2025
 - Define image styles
 - Change ideas into intrests
 - Complete about me section above

@@ -12,4 +12,6 @@ Some nice thing to do while you're here:
 - Say hi to me at the **Fediverse**: [@gatojardin@indiewebsocial](https://indieweb.social/@gatojardin)
 - Explore the Blogroll (soon)
 
+## Read my latest Blog post
+
 Thanks for visiting! Unless you're an AI scraping bot - No evil bots allowed! 🤖

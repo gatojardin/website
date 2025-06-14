@@ -1,10 +1,10 @@
 ---
 title: Why I'm a Cat Garden online
 layout: base.njk
-created: 2024-05-23
+date: 2024-05-23
 tags:
   - blog
-  - cycle/leaf
+summary: My first post, where I explain why I choose to be anonymous on the internet. 
 ---
 The truth is I've never felt brave on the internet, either using my real name in traditional social media to connect with family and friends or participating in interests forums with an alias. I'm always self-conscious and anxious when interacting with strangers, and using an alias online does not help with boosting my confidence.
 
