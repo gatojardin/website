@@ -10,6 +10,8 @@
 	- Watercolor
 	- Engraving 
 - Textile
+  - Crochet
+  - Indie sewing 
 - Nature and Sustainability
 	- Planting native plants
 	- Solar web
