@@ -22,13 +22,15 @@ This allows this webpage to be just HTML and CSS which rocks. I used [FlamedFury
 
 ### To-do
 - ~~Add dates to now and blog posts~~ 13/06/2025
-- Define image styles
+- ~~Added rel=me and fediverse creator metatag~~ 01/03/2026
+- Sort collections by date
+- Add rss feed
+- Complete home page
 - Change ideas into intrests
-- Complete about me section above
 - Make a light theme
 
 ## Other
 ### Copyright: Using and referencing my work
 All the content including writing, illustrations and photographs on this webpage were created by me unless specified and are published under [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International](https://creativecommons.org/licenses/by-nc-nd/4.0/) licence. 
 I don't mind deriviative work being done as long as it's made by humans and not fed to a LLM AI or used in a NFT Blockchain grift both of which I'm explicitly forbidding. 
-If you have other use cases, like using my work comercially please contact me vía email. 
+If you have other use cases please contact me vía email. 

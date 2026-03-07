@@ -3,9 +3,9 @@ title: Blog
 layout: base.njk
 ---
 
-These are all of my amazing blog posts, enjoy!
+Here you can read all my blog posts: 
 <ul>
 {%- for blog in collections.blog  | reverse  -%}
-  <li><a href="{{ blog.url }}">{{ blog.data.title }}</a></li>
+  <li><a href="{{ blog.url }}">{{ blog.data.title }} - {{blog.date}}</a></li>
 {%- endfor -%}
 </ul>

@@ -29,7 +29,7 @@ tags:
 ### 🎮 Playing
 - Currently at the 6th dungeon in Zelda Oracle of Ages. 
 ### 🍝 Cooking and Eating
-- Sophie localghost recommended Ottolenghi's Pasta a la Norma, and it was perfect.  
+- Sophie from [https://www.localghost.dev/](https://www.localghost.dev/) recommended Ottolenghi's Pasta a la Norma, and it was perfect.  
 ### 🪡 Making
 - Website: I will launch my website during my holidays, no head to do it now. Some of the pages I need to have ready include:
 	- Interests (instead of ideas and or projects).

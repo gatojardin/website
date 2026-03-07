@@ -1,0 +1,9 @@
+---
+layout: base.njk
+---
+{{ content | safe }}
+<ul>
+{%- for blog in collections.blog  | reverse -%}
+  <li><a href="{{ blog.url }}">{{ blog.data.title }}</a></li>
+{%- endfor -%}
+</ul>
