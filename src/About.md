@@ -3,6 +3,16 @@ title: About
 layout: base.njk
 ---
 ## About Me
+<pre aria-hidden="true">╔═══════════════╗
+║    .-----.    ║
+║  /( (  ) )\   ║
+║ ( ) ô   ô ))  ║
+║  )(.' u `.( ) ║
+║ ( ))`---' ))) ║
+║     /   \     ║
+║   //     \\   ║
+╚═══════════════╝</pre>
+
 I work as a Project Manager for a company that develops **Drupal** websites,occationally I also fill the role of information architech, UX designer and sitebuilder. But I want this to be a space outside from work. 
 - Read [why I'm a Cat Garden in the internet](/blog/why)
 
@@ -17,16 +27,17 @@ This allows this webpage to be just HTML and CSS which rocks. I used [FlamedFury
 
 ### Collophon
 - The general aesthetic owes a lot to [sailorhg](https://sailorhg.com/), check her page https://computecuter.com/ for inspiration. I also use her fairyfloss theme on vscode. 
-- The font used is [Dank Mono](https://philpl.gumroad.com/l/dank-mono) by Phil Pluckthun (personal licence). 
+- The font used is [Dank Mono](https://philpl.gumroad.com/l/dank-mono) by Phil Pluckthun (personal lisence). 
 - The color palette is inspired by the [Catpuccin theme](https://catppuccin.com/) 
 
 ### To-do
 - ~~Add dates to now and blog posts~~ 13/06/2025
 - ~~Added rel=me and fediverse creator metatag~~ 01/03/2026
-- Sort collections by date
-- Add rss feed
+- ~~Sort collections by date~~ 01/03/2026
+- Add RSS feed
 - Complete home page
-- Change ideas into intrests
+- Build interests section
+- Add gallery for photographty
 - Make a light theme
 
 ## Other

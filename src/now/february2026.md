@@ -13,12 +13,12 @@ Last year I went back to University to finish my degree, so I didn't have time t
 - Waiting for the second season of Freiren and Dungeon Meshi on Netflix. 
 - Also watched Asteroid City, it was fine, I feel there's been a change on Wes Anderson's father figures since becoming a father himself, they seem less larger than life and charismatic. 
 ### 📚 Reading
-- Finished reading The Hobbit and the Lord of the Rings Trilogy (also watched the extended edition films)
+- Finished reading The Hobbit and the Lord of the Rings Trilogy (also watched the extended edition films).
 - Started reading Virginia Woolf's "To the lighthouse". I read Flush when I was a teen so I'm enjoying going back to her writing. 
 ### 🎮 Playing
 - My partner started playing Minecraft in his Switch, and it looks so fun, I'm having serious FOMO. 
-- I think what I really like about it good can be replaced with a sim game, so I wish listed "Little Witch in the Woods" where you can befriend lots of cats. 
+- I think what I really like about it could be replaced with a sim game, so I wish listed "Little Witch in the Woods" where you can befriend lots of cats. 
 ### 🍝 Cooking and Eating
-- It's hot (end of summer here in the Southern Hemisphere) so not much cooking, butt I made a salad with seasoned crispy garbanzos and yogurt dressing that was very good. 
+- It's hot (end of summer here in the Southern Hemisphere) so not much cooking, but I made a salad with seasoned crispy garbanzos and yogurt dressing that was very good. 
 ### 🪡 Making
 - This website (slow work)

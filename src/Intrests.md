@@ -1,6 +1,6 @@
 # Intrests
 
-**soon**
+**Work on progress**
 
 - Photography
 	- Analog
@@ -8,11 +8,11 @@
 - Visual arts
 	- Drawing
 	- Watercolor
-	- Engraving 
+	- Engraving with Tetrapak
 - Textile
   - Crochet
-  - Indie sewing 
+  - Indie pattern sewing 
 - Nature and Sustainability
-	- Planting native plants
+	- Gardenind
 	- Bird watching
 	- Rewilding
