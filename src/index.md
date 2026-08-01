@@ -2,7 +2,7 @@
 title: Welcome to GatoJardín
 layout: home.njk
 ---
-I'm GatoJardin and live in South America, welcome to my small garden in the big world wide web.
+I'm GatoJardin and I live in South America, welcome to my small garden in the big world wide web.
 
 This is **Milo** the chief cat of this website, go ahead give her nose a boop.
 

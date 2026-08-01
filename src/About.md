@@ -3,7 +3,7 @@ title: About
 layout: base.njk
 ---
 ## About Me
-<pre aria-hidden="true">╔═══════════════╗
+<pre aria-hidden="true" class="ascii">╔═══════════════╗
 ║    .-----.    ║
 ║  /( (  ) )\   ║
 ║ ( ) ô   ô ))  ║
@@ -13,7 +13,7 @@ layout: base.njk
 ║   //     \\   ║
 ╚═══════════════╝</pre>
 
-I work as a Project Manager for a company that develops **Drupal** websites,occationally I also fill the role of information architech, UX designer and sitebuilder. But I want this to be a space outside from work. 
+I work as a Project Manager for a company that develops **Drupal** websites,occationally I also fill the role of information architecht, UX designer and sitebuilder. But I want this to be a space outside from work. 
 - Read [why I'm a Cat Garden in the internet](/blog/why)
 
 ## Website
@@ -35,7 +35,7 @@ This allows this webpage to be just HTML and CSS which rocks. I used [FlamedFury
 - ~~Added rel=me and fediverse creator metatag~~ 01/03/2026
 - ~~Sort collections by date~~ 01/03/2026
 - Add RSS feed
-- Complete home page
+- Complete home page with dates in posts
 - Build interests section
 - Add gallery for photographty
 - Make a light theme

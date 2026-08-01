@@ -1,18 +1,7 @@
 # Intrests
-
-**Work on progress**
+**Work in progress**
 
 - Photography
-	- Analog
-	- Digital
-- Visual arts
-	- Drawing
-	- Watercolor
-	- Engraving with Tetrapak
-- Textile
-  - Crochet
-  - Indie pattern sewing 
-- Nature and Sustainability
-	- Gardenind
-	- Bird watching
-	- Rewilding
+- Drawing, painting and engraving
+- Knitting and Sewing
+- Nature (mainly bird watching)
