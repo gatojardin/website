@@ -1,0 +1,136 @@
+@font-face {
+    font-family: 'Dank Mono';
+    src: 
+        url("../fonts/DankMono-Regular.woff2") format("woff2");
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: 'Dank Mono';
+    src: 
+        url("../fonts/DankMono-Italic.woff2") format("woff2");
+    font-style: italic;
+    font-weight: normal;
+}
+@font-face {
+    font-family: 'Dank Mono Bold';
+    src: 
+        url("../fonts/DankMono-Bold.woff2") format("woff2");
+    font-style: normal;
+    font-weight: bold;
+}
+
+:root{
+    --color-bg:  #131432;
+    --color-headings: #BCDD7E;
+    --color-text: #FFFFFF; 
+    --color-link: #90B5FF;
+    --color-link-over: #7DC4E4;
+    --color-link-visited: #B7BEF8; 
+}
+
+@media (prefers-color-scheme: light) {
+    :root {
+    --color-bg: #F8FEF1;
+    --color-headings: #556B2F;
+    --color-text: #131432; 
+    --color-link: #4078A5;
+    --color-link-over: #008080;
+    --color-link-visited: #483D8B; 
+    }
+}
+
+html {
+    background-color: var(--color-bg);
+    color: var(--color-text);
+    font-family: 'Dank Mono', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: var(--color-headings);
+    font-weight: bold;
+}
+
+a {
+    color: var(--color-link);
+    font-weight: bold;
+    text-decoration-thickness: 1px;
+}
+a:visited {
+    color: var(--color-link-visited);
+}
+a:hover {
+    text-decoration-line: underline;
+    color: var(--color-link-over);
+    text-decoration-style: wavy;
+}
+
+strong {
+    font-weight: bolder;
+}
+
+p {
+    line-height: 1.25rem;
+    hyphens: auto;
+}
+
+ul, li {
+    line-height: 1.25rem;
+}
+
+aside {
+    grid-area: aside;
+    margin: 0 1rem;
+}
+main {
+    grid-area: main;
+    margin: 0 1rem;
+}
+footer {
+    grid-area: footer;
+    margin: 0 auto;
+}
+nav > ul {
+    display: contents;
+}
+nav > ul > li {
+    display: contents;
+}
+
+@media screen and (min-width: 660px)  {
+    html {
+        font-size: 18px;
+    }
+    body {
+        display: grid;
+        grid-template-columns: 250px auto; 
+        grid-template-areas: 
+        "aside main"
+        "footer footer";
+    }
+    main {
+        width: 55vw;
+        min-height: 90vh;
+    }
+    nav > ul > li {
+        display: list-item;
+        margin-left: 1rem;
+    }
+}
+
+header > p {
+    color: var(--color-link-visited);
+    font-size: 28px;
+    font-style: italic;
+    margin-top: unset;
+    text-align: center;
+}
+
+header > img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.strike {
+    text-decoration: line-through;
+}
