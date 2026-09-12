@@ -34,11 +34,11 @@ This allows this webpage to be just HTML and CSS which rocks. I used [FlamedFury
 - ~~Add dates to now and blog posts~~ 13/06/2025
 - ~~Added rel=me and fediverse creator metatag~~ 01/03/2026
 - ~~Sort collections by date~~ 01/03/2026
+- ~~Add light mode~~ 12/09/2026
 - Add RSS feed
 - Complete home page with dates in posts
 - Build interests section
 - Add gallery for photographty
-- Make a light theme
 
 ## Other
 ### Copyright: Using and referencing my work
